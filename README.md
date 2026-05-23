@@ -12,6 +12,6 @@ python3 game.py
 git clone
 cd game
 source env/bin/activate
-python3 game.py
 pip3 install -r requirements.txt
+python3 game.py
 ```
